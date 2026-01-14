@@ -53,7 +53,7 @@ In many classrooms, air conditioning systems operate irregularly, causing discom
 - The process repeats continuously.
 
 ## Author
-  [NANDANA SAJEEV] - https://github.com/nandanasvsajeev-spec
-  [MIYANDA MARY JANUSH] - 
-  [S.M GOPIKA] - 
-  [ANNA GOMEZ.S] - 
+  - [NANDANA SAJEEV] - https://github.com/nandanasvsajeev-spec
+  - [MIYANDA MARY JANUSH] - 
+  - [S.M GOPIKA] - 
+  - [ANNA GOMEZ.S] - 
