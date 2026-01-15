@@ -54,6 +54,6 @@ In many classrooms, air conditioning systems operate irregularly, causing discom
 
 ## Author
   - [NANDANA SAJEEV] - https://github.com/nandanasvsajeev-spec
-  - [MIYANDA MARY JANUSH] - 
+  - [MIYANDA MARY JANUSH] - https://github.com/miyandamary?tab=repositories
   - [S.M GOPIKA] - https://github.com/smgopika2-design
   - [ANNA GOMEZ.S] -https://github.com/kmary2575-beep 
